@@ -1,4 +1,4 @@
-#Chrome Memory Limiter
+#Chrome Memory Limiter / Расшириение для Chrome которое помогает контролировать кол-во потребления памяти
 
 Cross-platform Chrome extension for controlling memory consumption and tab limits, with an optional native RAM helper. Кроссплатформенное расширение для Chrome, которое ограничивает потребление памяти и количество открытых вкладок, с опциональным нативным помощником для мониторинга RAM.
 
