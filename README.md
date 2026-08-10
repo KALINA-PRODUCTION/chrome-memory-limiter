@@ -1,4 +1,4 @@
-<img width="991" height="1060" alt="Снимок экрана 2026-08-11 в 03 19 50" src="https://github.com/user-attachments/assets/f6aca528-2a46-470d-84dd-5bdee2488dc5" />
+<img width="1254" height="1254" alt="38eeb25a-8fd2-4216-89a6-c1f96a8ccd73" src="https://github.com/user-attachments/assets/195576d0-f38a-4b53-88cc-c060ceefdd7e" />
 
 # Chrome Memory Limiter / Расшириение для Chrome которое помогает контролировать кол-во потребления памяти
 
