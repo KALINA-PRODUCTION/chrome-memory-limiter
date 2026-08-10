@@ -59,3 +59,5 @@ Chrome версии 121 или новее
 🇬🇧 English
 
 MIT
+
+<img width="991" height="1060" alt="Снимок экрана 2026-08-11 в 03 19 50" src="https://github.com/user-attachments/assets/f6aca528-2a46-470d-84dd-5bdee2488dc5" />
